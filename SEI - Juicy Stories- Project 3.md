@@ -57,11 +57,6 @@ I made the backend API in mongo and most of the Authorisation. The takeaway lear
 Of extra features we added the small counter on "open request" tab to indicate messages have been send to the logged in user.
 
 
-
-## Future improvements
-Noting here yet
-
-
 ## Author
 
 Morten Elbo - https://github.com/mElbo-dk
